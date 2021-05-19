@@ -12,7 +12,7 @@ module.exports = {
        allowNull: false
      },
       nome:{
-        type: Sequelize.BIGINT,
+        type: Sequelize.STRING,
         allowNull: false
       },
       valor:{
